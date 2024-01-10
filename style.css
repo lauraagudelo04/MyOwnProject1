@@ -1,0 +1,99 @@
+body{
+    background-color:rgb(250, 231, 244) ;
+    font-family:'Handlee';
+}
+.navigation ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.navigation li {
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 20px;
+}
+
+.navigation  li.logo {
+  color: black;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 4px;
+}
+
+
+  #banner {
+    background-color: rgb(243, 182, 210);
+    height: 60px;
+    width: 100%;
+    background-position: center;
+    text-align: center;
+    
+  }
+  #main{
+    padding: 20px;
+  }
+  
+
+  table, td, th {
+    border:3px solid rgb(255, 180, 192);
+  
+  }
+table {
+    border-collapse:collapse;
+    width:100%;
+    width: 700px;
+    margin: 0 auto;
+
+    
+  }
+
+  td, th {
+    padding: 6px;;
+  }
+  th{
+    color: rgb(250, 157, 171) ;
+  }
+
+h1{
+    text-align: center;
+    font-weight: 700;
+    color: rgb(243, 124, 142);
+
+}
+h2{
+  text-align: center;
+  color: rgb(250, 157, 171);
+}
+.Font-family{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.Font-size{
+  font-size: 26px;
+}
+.Font-weight{
+  font-weight: bold;
+}
+.Text-align{
+  text-align: center;
+}
+.Foreground{
+  color:rgb(144, 144, 247);
+}
+
+.Background{
+  background-color: rgb(253, 253, 158);
+}
+.Opacity{
+  opacity: 0.5;
+}
+.image{
+  background-image: url(https://static.basicinvite.com/media/bi/35142/precious-daisies-wallpaper-l.jpg?q=1687376268);
+  background-size: 250px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.Important{
+  color:rgb(102, 236, 236) !important;
+}
